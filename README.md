@@ -17,12 +17,12 @@
 
 
 
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Patel-swg&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Aniket-Patel-swg/github-readme-stats)
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Patel-swg&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)]
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket-Patel-swg&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket-Patel-swg&theme=dark)]
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Aniket-Patel-swg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
