@@ -1,6 +1,7 @@
 ### Hi there, Aniket here 👋
 
 
+![Github image](https://user-images.githubusercontent.com/111775702/209480190-5e47d602-fadf-4057-9c41-8d044df88582.png)
 
 
 - 🔭 I’m currently working on advanced web-development projects.
@@ -14,12 +15,7 @@
 - ⚡ Fun fact: basketball :basketball_man:, coding :computer:, finance :coin:, repeat :hourglass:
 
 
-![Github image](https://user-images.githubusercontent.com/111775702/209480190-5e47d602-fadf-4057-9c41-8d044df88582.png)
-
-
-
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Patel-swg&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)
-
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Aniket-Patel-swg&theme=dark)
