@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on advanced react projects.
+- 🔭 I’m currently working on advanced web-development projects.
 - 🌱 I’m currently learning Machine learning and IOT.
 - 👯 I’m looking to collaborate on interesting projects based on Web-development.
 - 🤔 I’m looking for help with machine learning and IOT.
