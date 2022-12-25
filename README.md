@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: basketball :basketball_man:, coding :computer:, finance :coin:, repeat :hourglass:
 
 
-[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Patel-swg&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Aniket-Patel-swg/github-readme-stats)
+[![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Patel-swg&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/Aniket-Patel-swg/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniket-Patel-swg)](https://github.com/Aniket-Patel-swg/github-readme-stats)
