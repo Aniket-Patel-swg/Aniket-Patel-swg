@@ -9,8 +9,8 @@
 - 🤔 I’m looking for help with machine learning and IOT.
 - 💬 Ask me about coding, development and finance.
 - 📫 How to reach me: 
-  - :zap: [Linkedin] (www.linkedin.com/in/aniket-patel-developer)
-  - :sunglasses: [Github] (https://github.com/Aniket-Patel-swg)
+  - :zap: [Linkedin](www.linkedin.com/in/aniket-patel-developer)
+  - :sunglasses: [Github](https://github.com/Aniket-Patel-swg)
 - ⚡ Fun fact: basketball :basketball_man:, coding :computer:, finance :coin:, repeat :hourglass:
 
 
