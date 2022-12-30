@@ -1,7 +1,7 @@
 ### Hi there, Aniket here 👋
 
 
-![Github image](https://user-images.githubusercontent.com/111775702/209480190-5e47d602-fadf-4057-9c41-8d044df88582.png)
+![Github image](https://github.com/Aniket-Patel-swg)
 
 
 - 🔭 I’m currently working on advanced web-development projects.
