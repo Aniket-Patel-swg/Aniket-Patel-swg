@@ -11,7 +11,7 @@
 - 📫 How to reach me: 
   - :zap: [Linkedin](www.linkedin.com/in/aniket-patel-developer)
   - :sunglasses: [Github](https://github.com/Aniket-Patel-swg)
-- ⚡ Fun fact: basketball :basketball_man:, coding :computer:, finance :coin:, repeat :hourglass, exploring:
+- ⚡ Fun fact: basketball :basketball_man:, coding :computer:, finance :coin:, repeat :hourglass, exploring 
 
 
 ![Aniket's github stats](https://github-readme-stats.vercel.app/api?username=Aniket-Patel-swg&count_private=true&show_icons=true&theme=tokyonight&hide_rank=false)
