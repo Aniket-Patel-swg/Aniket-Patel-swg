@@ -1,6 +1,7 @@
 ### Hi there, Aniket here 👋
 
-![Github image](https://user-images.githubusercontent.com/111775702/210100700-254fe3bc-b410-494c-b48d-c2454877e3a7.png)
+![Uploading IMG20221015170828.jpg…]()
+
 
 
 - 🔭 I’m currently working on advanced web-development projects.
