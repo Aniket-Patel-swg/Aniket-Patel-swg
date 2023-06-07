@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web-development**
 
-- 📫 How to reach me **https://github.com/Aniket-Patel-swg ,**
+- 📫 How to reach me **Aniketpatel.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
