@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Advanced web-development project**
 
-- 🌱 I’m currently learning **OpenCV for image processing**
+- 🌱 I’m currently learning **Working of Large Language Models & Basica of Neural Networks**
 
 - 👯 I’m looking to collaborate on **Innovative project ideas for social good**
 
-- 🤝 I’m looking for help with **Machine learning and IOT**
+- 🤝 I’m looking for help with **Image Processing & Neural Networks**
 
 - 💬 Ask me about **Web-development**
 
