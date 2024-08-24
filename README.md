@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web-development**
 
-- 📫 How to reach me **[aniketpatel.me](https://aniketpatel.me){:"target=_blank"}**
+- 📫 How to reach me **[aniketpatel.tech](https://aniketpatel.tech)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
